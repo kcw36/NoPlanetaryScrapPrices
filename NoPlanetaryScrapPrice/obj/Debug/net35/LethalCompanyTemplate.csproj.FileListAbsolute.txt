@@ -1,0 +1,7 @@
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\LethalCompanyTemplate.csproj.AssemblyReference.cache
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\PluginInfo.cs
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\LethalCompanyTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\LethalCompanyTemplate.AssemblyInfoInputs.cache
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\LethalCompanyTemplate.AssemblyInfo.cs
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\LethalCompanyTemplate.csproj.CoreCompileInputs.cache
+C:\Users\kylew\source\repos\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\net35\LethalCompanyTemplate.sourcelink.json
